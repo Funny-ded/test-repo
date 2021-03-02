@@ -1,6 +1,6 @@
 hola, mundo!
 
-
+master was here!
 
 здесь был Петя!
 здесь был Вася!
