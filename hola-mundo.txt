@@ -4,3 +4,5 @@ hola, mundo!
 
 здесь был Петя!
 здесь был Вася!
+
+luck was here!
